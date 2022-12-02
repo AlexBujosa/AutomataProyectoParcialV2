@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sTzqiF6IsKj/pouGiEz8Eie8a+gWkDCY/2k4PjwNJtO5AIRKMv4t64sP5OSvAIBexD2sxO/dU5N0Sl6ZAkzZvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\any_c\\source\\repos\\practica basica\\ProyectoEvaluacionParserV2\\ProyectoEvaluacionParserV2\\ProyectoEvaluacionParserV2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\any_c\\.nuget\\packages\\antlr4.runtime.standard\\4.9.2\\antlr4.runtime.standard.4.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

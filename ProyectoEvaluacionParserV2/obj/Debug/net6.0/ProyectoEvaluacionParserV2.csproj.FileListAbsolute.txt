@@ -1,0 +1,17 @@
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\bin\Debug\net6.0\ProyectoEvaluacionParserV2.exe
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\bin\Debug\net6.0\ProyectoEvaluacionParserV2.deps.json
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\bin\Debug\net6.0\ProyectoEvaluacionParserV2.runtimeconfig.json
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\bin\Debug\net6.0\ProyectoEvaluacionParserV2.dll
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\bin\Debug\net6.0\ProyectoEvaluacionParserV2.pdb
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\bin\Debug\net6.0\Antlr4.Runtime.Standard.dll
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\obj\Debug\net6.0\ProyectoEvaluacionParserV2.csproj.AssemblyReference.cache
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\obj\Debug\net6.0\ProyectoEvaluacionParserV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\obj\Debug\net6.0\ProyectoEvaluacionParserV2.AssemblyInfoInputs.cache
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\obj\Debug\net6.0\ProyectoEvaluacionParserV2.AssemblyInfo.cs
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\obj\Debug\net6.0\ProyectoEvaluacionParserV2.csproj.CoreCompileInputs.cache
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\obj\Debug\net6.0\ProyectoEvaluacionParserV2.csproj.CopyComplete
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\obj\Debug\net6.0\ProyectoEvaluacionParserV2.dll
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\obj\Debug\net6.0\refint\ProyectoEvaluacionParserV2.dll
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\obj\Debug\net6.0\ProyectoEvaluacionParserV2.pdb
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\obj\Debug\net6.0\ProyectoEvaluacionParserV2.genruntimeconfig.cache
+C:\Users\any_c\source\repos\practica basica\ProyectoEvaluacionParserV2\ProyectoEvaluacionParserV2\obj\Debug\net6.0\ref\ProyectoEvaluacionParserV2.dll
